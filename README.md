@@ -73,7 +73,7 @@
 
 
 <p align="center">
-    <img src="./gambar-petunjuk/underconstruction.png" alt="underconstruction" style="display: block; margin: 0 auto;">
+    <img src="./gambar-petunjuk/ss_result_in_web.png" alt="ss_result_in_web" style="display: block; margin: 0 auto;">
 </p>
 
 ---
