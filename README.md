@@ -87,7 +87,12 @@
 
 - Enable clipboard on Vim - select all lines in the vim editor is to press the `ggVG` key, then if you want to copy all the context, also press the `"+y` key. And if you want to paste it into the vim editor, you can do the key `"+p`.
 
-- install ccat on Mac OS | reference `https://macappstore.org/ccat/` ; `https://github.com/owenthereal/ccat`
+- install ccat on Mac OS 
+    - - reference 
+        
+        `https://macappstore.org/ccat/`
+        
+        `https://github.com/owenthereal/ccat`
 
 ---
 
