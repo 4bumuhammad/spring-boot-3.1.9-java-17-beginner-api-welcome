@@ -84,7 +84,7 @@
 
 ### notes :
 
-Enable clipboard on Vim - select all lines in the vim editor is to press the ggVG key, then if you want to copy all the context, also press the "+y key. And if you want to paste it into the vim editor, you can do the key "+p.
+Enable clipboard on Vim - select all lines in the vim editor is to press the `ggVG` key, then if you want to copy all the context, also press the `"+y` key. And if you want to paste it into the vim editor, you can do the key `"+p`.
 
 <p align="center">
     <img src="./gambar-petunjuk/Done-100.png" alt="done" style="display: block; margin: 0 auto;">
