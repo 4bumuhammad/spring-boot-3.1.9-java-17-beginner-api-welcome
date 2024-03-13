@@ -81,7 +81,7 @@
 ## &#x1FA90; explanation with screen image capture
 
 <p align="center">
-    <img src="./gambar-petunjuk/underconstruction.png" alt="underconstruction" style="display: block; margin: 0 auto;">
+    <img src="./gambar-petunjuk/ss_vsc_springboot.png" alt="ss_vsc_springboot" style="display: block; margin: 0 auto;">
 </p>
 
 ---
