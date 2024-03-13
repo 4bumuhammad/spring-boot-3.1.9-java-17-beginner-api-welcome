@@ -48,12 +48,16 @@
 
  ### &#x1F530; Stages and codes
 
-    ❯ mkdir -p demo-api/src/main/java/com/domain/demoapi/controller
-
     ❯ cd demo-api
+
+    # buat direktori pada Visual Studio Code pada path `src/main/java/com/domain/demoapi/controller`
 
     # create a java file in Visual Studio Code at path `src/main/java/com/domain/demoapi/controller/WelcomeController.java`
    
+
+<p align="center">
+    <img src="./gambar-petunjuk/ss_stages_code_001.png" alt="ss_stages_code_001" style="display: block; margin: 0 auto;">
+</p>
 
 
 
