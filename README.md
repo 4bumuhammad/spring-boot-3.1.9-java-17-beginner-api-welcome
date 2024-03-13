@@ -46,7 +46,14 @@
         - -> Lombok ( function : reduces boilerplate code )
 
 
- ### &#x1F530; Code
+ ### &#x1F530; Stages and codes
+
+    ❯ mkdir -p demo-api/src/main/java/com/domain/demoapi/controller
+
+    ❯ cd demo-api
+
+    ❯ touch src/main/java/com/domain/demoapi/controller/WelcomeController.java
+
 
 
  ### &#x1F530; Run project
